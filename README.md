@@ -1,0 +1,1 @@
+# Defectiive-part-detection-using-CNN
